@@ -1,4 +1,7 @@
 
+**Twitter Sentiment Analysis**
+
+
 The code  is a sentiment analysis model to classify tweets as positive, negative, or neutral. The code is written in Python and uses the following libraries:
 
 pandas: A library for data manipulation and analysis
